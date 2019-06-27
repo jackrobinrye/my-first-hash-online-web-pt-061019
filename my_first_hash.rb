@@ -1,6 +1,11 @@
+
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  my_hash = {
+    dogs: 5, 
+    pizza: 10, 
+    cats: 10
+  }
   
 end
 
@@ -15,6 +20,7 @@ def shipping_manifest
     oil_paintings: 3
     
   }
+  
 
 end
 
